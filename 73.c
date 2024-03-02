@@ -18,14 +18,6 @@ void menu() {
 int main() {
 	PESSOA pessoa1 = {545446, "Jonas", "jonas@teste.com"};
 	int entrada = 0;
-	/*printf("Qual o ano de fabricação? ");
-	scanf("%d", &carro.ano);
-	printf("\nQual a marca? ");
-	scanf("%s", carro.marca);
-	printf("\nQual o preço do carro? ");
-	scanf("%f", &carro.preco);
-	printf("\nQual a cor do carro? ");
-	scanf("%s", carro.cor);*/
 	
 	do {
 		menu();
