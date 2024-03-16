@@ -74,5 +74,15 @@ int main() {
 		*ptr_dia++;		
 	}
 	
+	// calloc, malloc...
+	// 	calloc(qtde_elementos, tamanho) 
+	// int *pont = (int *) calloc(n, sizeof(int)); alocando espaço para um vetor de n inteiros
+	// 	malloc(tamanho)
+	// int *pont1 = (int *) malloc(sizeof(int)); aloca espaço para um inteiro
+	
+	// void free(void *ponteiro) libera memoria
+	// *realloc(*ponteiro, bytes)
+	
+	
 	return 0;
 }
