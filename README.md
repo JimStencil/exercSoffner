@@ -1,2 +1,2 @@
 # exercSoffner
-Exercícios Algoritmos e programação em linguagem C - Renato Soffner
+Exercícios e anotações do livro Algoritmos e programação em linguagem C - Renato Soffner
