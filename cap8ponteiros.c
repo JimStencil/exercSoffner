@@ -10,7 +10,7 @@ struct Pessoa {
 
 // adiciona 20 anos à idade
 void alteracao_idade(struct Pessoa *acesso)  {
-	acesso -> idade += 20;
+	acesso->idade += 20;
 }
 
 int main() {
